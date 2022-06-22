@@ -51,7 +51,7 @@ html, body {
   color: rgb(173, 43, 43);
   height: 100%;
   width: 100%;
-  margin-top: 12px;
+  margin-top: 20px;
   padding-top: 10px;
   background-image: url("https://wallpaperaccess.com/full/6122394.png");
   background-position: center; /* Center the image */
