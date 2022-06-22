@@ -53,8 +53,6 @@ html, body {
   width: 100%;
   margin-top: 15px;
   padding-top: 10px;
-  margin-left: 20px;
-  margin-right: 20px;
   background-image: url("https://wallpaperaccess.com/full/6122394.png");
   background-position: center;
 }
