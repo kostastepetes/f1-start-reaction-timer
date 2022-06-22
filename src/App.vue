@@ -40,7 +40,7 @@ export default {
 html, body {
   margin:0px;
   height:100%;
-  background-image: url("https://media.istockphoto.com/vectors/race-flag-finish-flag-vector-isolated-illustration-race-flag-icon-vector-id1253533380?k=20&m=1253533380&s=612x612&w=0&h=MTtqfAPGfgKN6DbHU7CCNklrMZ6ZZHj52sMh_UpGNm4=");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/F1_chequered_flag.svg/2560px-F1_chequered_flag.svg.png");
 }
 
 #app {
@@ -53,8 +53,10 @@ html, body {
   width: 100%;
   margin-top: 15px;
   padding-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
   background-image: url("https://wallpaperaccess.com/full/6122394.png");
-  background-position: center; /* Center the image */
+  background-position: center;
 }
 button {
   background: #273044;
